@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "code": 200,
+    "status": "success",
+    "message": "Data surat berhasil diambil"
+  },
+  "data": {
+    "surat": {
+      "id": 108,
+      "no_surat": 108,
+      "jumlah_ayat": 3,
+      "nama_surat_arb": "الكوثر",
+      "nama_surat_latin": "Al-Kausar",
+      "arti_nama_surat": "Pemberian Yang Banyak",
+      "tafsir": "Surat Al Kautsar terdiri atas 3 ayat, termasuk golongan surat-surat  Makkiyyah diturunkan sesudah surat Al 'Aadiyaat. Dinamai Al Kautsar (nikmat yang banyak) diambil dari perkataan Al Kautsar yang terdapat pada ayat pertama surat ini.Surat ini sebagai penghibur hati Nabi Muhammad s.a.w.",
+      "turun_surat": "Makkiyyah",
+      "audio": "http://ia802609.us.archive.org/13/items/quraninindonesia/108AlKautsar.mp3",
+      "ayats": [
+        {
+          "id": 6205,
+          "surat_id": 108,
+          "jus": 30,
+          "ruku": 550,
+          "no_ayat_inquran": 6205,
+          "no_ayat_insurat": 1,
+          "body_ayat_arb": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+          "body_ayat_ltn_en": "Innaa a'taina kal kauthar",
+          "body_ayat_ltn_in": "innaa a'thaynaaka alkawtsara",
+          "body_ayat_ltn_in_html": "inn<u>aa</u> a'<u>th</u>ayn<u>aa</u>ka <strong>a</strong>lkawtsar<strong>a</strong>",
+          "invers_tajweed": "إِ[g[نّ][o[َآ] أَعْطَيْنَ[n[ـٰ]كَ [h:14659[ٱ]لْكَوْثَرَ",
+          "translation_id": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak.",
+          "translation_en": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
+          "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6205",
+          "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6205.mp3",
+          "tafsir_short": "Wahai Nabi Muhammad, sungguh Kami telah memberimu nikmat yang banyak dan langgeng, meliputi kenikmatan duniawi maupun ukhrawi, seperti kenabian, Al-Qur’an, syafaat, telaga di surga, dan sebagainya."
+        },
+        {
+          "id": 6206,
+          "surat_id": 108,
+          "jus": 30,
+          "ruku": 550,
+          "no_ayat_inquran": 6206,
+          "no_ayat_insurat": 2,
+          "body_ayat_arb": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+          "body_ayat_ltn_en": "Fa salli li rabbika wanhar",
+          "body_ayat_ltn_in": "fashalli lirabbika wainhar",
+          "body_ayat_ltn_in_html": "fa<u>sh</u>alli lirabbika wa<strong>i</strong>n<u>h</u>ar",
+          "invers_tajweed": "فَصَلِّ لِرَبِّكَ وَ[h:14660[ٱ]نْحَرْ",
+          "translation_id": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah).",
+          "translation_en": "So pray to your Lord and sacrifice [to Him alone].",
+          "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6206",
+          "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6206.mp3",
+          "tafsir_short": "Karena itu, sebagai rasa syukurmu kepada Tuhanmu, maka laksanakanlah salat dengan ikhlas semata-mata karena Tuhanmu, bukan dengan tujuan ria; dan berkurbanlah demi Allah dengan menyembelih hewan sebagai ibadah dan sarana mendekatkan diri kepada Allah."
+        },
+        {
+          "id": 6207,
+          "surat_id": 108,
+          "jus": 30,
+          "ruku": 550,
+          "no_ayat_inquran": 6207,
+          "no_ayat_insurat": 3,
+          "body_ayat_arb": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+          "body_ayat_ltn_en": "Inna shani-aka huwal abtar",
+          "body_ayat_ltn_in": "inna syaani-aka huwa al-abtaru",
+          "body_ayat_ltn_in_html": "inna sy<u>aa</u>ni-aka huwa <strong>a</strong>l-abtar<strong>u</strong>",
+          "invers_tajweed": "إِ[g[نّ]َ شَانِئَكَ هُوَ [h:14661[ٱ]لْأَ[q:14662[بْ]تَرُ",
+          "translation_id": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah).",
+          "translation_en": "Indeed, your enemy is the one cut off.",
+          "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6207",
+          "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6207.mp3",
+          "tafsir_short": "Sungguh orang-orang yang membencimu dan mengacuhkan hidayah yang engkau bawa, dialah orang yang terputus. Tidak hanya terputus jejaknya, mereka pun dijauhkan dari rahmat Allah dan segala kebaikan. Keteladanan dan kebaikanmu akan terus menjadi pembicaraan sepanjang zaman dan keturunanmu akan terus mewarisi kebaikanmu."
+        }
+      ]
+    },
+    "ayats": [
+      {
+        "id": 6205,
+        "surat_id": 108,
+        "jus": 30,
+        "ruku": 550,
+        "no_ayat_inquran": 6205,
+        "no_ayat_insurat": 1,
+        "body_ayat_arb": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+        "body_ayat_ltn_en": "Innaa a'taina kal kauthar",
+        "body_ayat_ltn_in": "innaa a'thaynaaka alkawtsara",
+        "body_ayat_ltn_in_html": "inn<u>aa</u> a'<u>th</u>ayn<u>aa</u>ka <strong>a</strong>lkawtsar<strong>a</strong>",
+        "invers_tajweed": "إِ[g[نّ][o[َآ] أَعْطَيْنَ[n[ـٰ]كَ [h:14659[ٱ]لْكَوْثَرَ",
+        "translation_id": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak.",
+        "translation_en": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
+        "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6205",
+        "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6205.mp3",
+        "tafsir_short": "Wahai Nabi Muhammad, sungguh Kami telah memberimu nikmat yang banyak dan langgeng, meliputi kenikmatan duniawi maupun ukhrawi, seperti kenabian, Al-Qur’an, syafaat, telaga di surga, dan sebagainya."
+      },
+      {
+        "id": 6206,
+        "surat_id": 108,
+        "jus": 30,
+        "ruku": 550,
+        "no_ayat_inquran": 6206,
+        "no_ayat_insurat": 2,
+        "body_ayat_arb": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+        "body_ayat_ltn_en": "Fa salli li rabbika wanhar",
+        "body_ayat_ltn_in": "fashalli lirabbika wainhar",
+        "body_ayat_ltn_in_html": "fa<u>sh</u>alli lirabbika wa<strong>i</strong>n<u>h</u>ar",
+        "invers_tajweed": "فَصَلِّ لِرَبِّكَ وَ[h:14660[ٱ]نْحَرْ",
+        "translation_id": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah).",
+        "translation_en": "So pray to your Lord and sacrifice [to Him alone].",
+        "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6206",
+        "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6206.mp3",
+        "tafsir_short": "Karena itu, sebagai rasa syukurmu kepada Tuhanmu, maka laksanakanlah salat dengan ikhlas semata-mata karena Tuhanmu, bukan dengan tujuan ria; dan berkurbanlah demi Allah dengan menyembelih hewan sebagai ibadah dan sarana mendekatkan diri kepada Allah."
+      },
+      {
+        "id": 6207,
+        "surat_id": 108,
+        "jus": 30,
+        "ruku": 550,
+        "no_ayat_inquran": 6207,
+        "no_ayat_insurat": 3,
+        "body_ayat_arb": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+        "body_ayat_ltn_en": "Inna shani-aka huwal abtar",
+        "body_ayat_ltn_in": "inna syaani-aka huwa al-abtaru",
+        "body_ayat_ltn_in_html": "inna sy<u>aa</u>ni-aka huwa <strong>a</strong>l-abtar<strong>u</strong>",
+        "invers_tajweed": "إِ[g[نّ]َ شَانِئَكَ هُوَ [h:14661[ٱ]لْأَ[q:14662[بْ]تَرُ",
+        "translation_id": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah).",
+        "translation_en": "Indeed, your enemy is the one cut off.",
+        "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6207",
+        "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6207.mp3",
+        "tafsir_short": "Sungguh orang-orang yang membencimu dan mengacuhkan hidayah yang engkau bawa, dialah orang yang terputus. Tidak hanya terputus jejaknya, mereka pun dijauhkan dari rahmat Allah dan segala kebaikan. Keteladanan dan kebaikanmu akan terus menjadi pembicaraan sepanjang zaman dan keturunanmu akan terus mewarisi kebaikanmu."
+      }
+    ]
+  }
+}

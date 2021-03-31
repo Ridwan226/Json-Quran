@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "code": 200,
+    "status": "success",
+    "message": "Data surat berhasil diambil"
+  },
+  "data": {
+    "surat": {
+      "id": 103,
+      "no_surat": 103,
+      "jumlah_ayat": 3,
+      "nama_surat_arb": "العصر",
+      "nama_surat_latin": "Al-'Asr",
+      "arti_nama_surat": "Asar",
+      "tafsir": "Surat Al 'Ashr terdiri atas 3 ayat, termasuk golongan surat-surat Makkiyyah, diturunkan sesudah surat Alam Nasyrah. Dinamai Al 'Ashr (masa) diambil dari perkataan Al 'Ashr yang terdapat pada ayat pertama surat ini.",
+      "turun_surat": "Makkiyyah",
+      "audio": "http://ia802609.us.archive.org/13/items/quraninindonesia/103AlAshr.mp3",
+      "ayats": [
+        {
+          "id": 6177,
+          "surat_id": 103,
+          "jus": 30,
+          "ruku": 545,
+          "no_ayat_inquran": 6177,
+          "no_ayat_insurat": 1,
+          "body_ayat_arb": "وَالْعَصْرِ",
+          "body_ayat_ltn_en": "Wal' asr",
+          "body_ayat_ltn_in": "waal'ashri",
+          "body_ayat_ltn_in_html": "wa<strong>a</strong>l'a<u>sh</u>r<strong>i</strong>",
+          "invers_tajweed": "وَ[h:9999[ٱ]لْعَصْرِ",
+          "translation_id": "Demi masa,",
+          "translation_en": "By time,",
+          "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6177",
+          "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6177.mp3",
+          "tafsir_short": "Demi masa, waktu sore, atau salat Asar. Allah bersumpah dengan masa agar manusia memperhatikan masa dan memanfaatkannya dengan baik; bersumpah dengan waktu sore, sebagaimana dengan waktu duha, sebagai salah satu bukti kuasa Allah; dan bersumpah dengan salat Asar karena keutamaanya atas salat-salat yang lain."
+        },
+        {
+          "id": 6178,
+          "surat_id": 103,
+          "jus": 30,
+          "ruku": 545,
+          "no_ayat_inquran": 6178,
+          "no_ayat_insurat": 2,
+          "body_ayat_arb": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+          "body_ayat_ltn_en": "Innal insaana lafee khusr",
+          "body_ayat_ltn_in": "inna al-insaana lafii khusrin",
+          "body_ayat_ltn_in_html": "inna <strong>a</strong>l-ins<u>aa</u>na lafii khusr<strong>in</strong>",
+          "invers_tajweed": "إِ[g[نّ]َ [h:7137[ٱ]لْإِ[f:5969[نس]َ[n[ـٰ]نَ لَفِى خُسْرٍ",
+          "translation_id": "sungguh, manusia berada dalam kerugian,",
+          "translation_en": "Indeed, mankind is in loss,",
+          "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6178",
+          "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6178.mp3",
+          "tafsir_short": "Sungguh, manusia berada dalam kerugian, baik di dunia maupun akhirat, akibat hawa nafsu yang menyelubungi dirinya."
+        },
+        {
+          "id": 6179,
+          "surat_id": 103,
+          "jus": 30,
+          "ruku": 545,
+          "no_ayat_inquran": 6179,
+          "no_ayat_insurat": 3,
+          "body_ayat_arb": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+          "body_ayat_ltn_en": "Il lal lazeena aamanu wa 'amilus saali haati wa tawa saw bil haqqi wa tawa saw bis sabr",
+          "body_ayat_ltn_in": "illaa alladziina aamanuu wa'amiluu alshshaalihaati watawaasaw bialhaqqi watawaasaw bialshshabri",
+          "body_ayat_ltn_in_html": "ill<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti wataw<u>aas</u>aw bi<strong>a</strong>l<u>h</u>aqqi wataw<u>aas</u>aw bi<strong>al</strong><u>shsh</u>abr<strong>i</strong>",
+          "invers_tajweed": "إِلَّا [h:778[ٱ]لَّذِينَ ءَامَنُو[s[اْ] وَعَمِلُو[s[اْ] [h:118[ٱ][l[ل]صَّ[n[ـٰ]لِحَ[n[ـٰ]تِ وَتَوَاصَوْ[s[اْ] بِ[h:370[ٱ]لْحَقِّ وَتَوَاصَوْ[s[اْ] بِ[h:223[ٱ][l[ل]صَّ[q:223[بْ]رِ",
+          "translation_id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran.",
+          "translation_en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+          "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6179",
+          "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6179.mp3",
+          "tafsir_short": "Semua manusia rugi, kecuali orang-orang yang beriman dengan sejati dan mengerjakan kebajikan sesuai ketentuan syariat dengan penuh keikhlasan, serta saling menasihati satu sama lain dengan baik dan bijaksana untuk memegang teguh kebenaran sebagaimana diajarkan oleh agama dan saling menasihati untuk kesabaran dalam melaksanakan kewajiban agama, menjauhi larangan, menghadapi musibah, dan menjalani kehidupan."
+        }
+      ]
+    },
+    "ayats": [
+      {
+        "id": 6177,
+        "surat_id": 103,
+        "jus": 30,
+        "ruku": 545,
+        "no_ayat_inquran": 6177,
+        "no_ayat_insurat": 1,
+        "body_ayat_arb": "وَالْعَصْرِ",
+        "body_ayat_ltn_en": "Wal' asr",
+        "body_ayat_ltn_in": "waal'ashri",
+        "body_ayat_ltn_in_html": "wa<strong>a</strong>l'a<u>sh</u>r<strong>i</strong>",
+        "invers_tajweed": "وَ[h:9999[ٱ]لْعَصْرِ",
+        "translation_id": "Demi masa,",
+        "translation_en": "By time,",
+        "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6177",
+        "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6177.mp3",
+        "tafsir_short": "Demi masa, waktu sore, atau salat Asar. Allah bersumpah dengan masa agar manusia memperhatikan masa dan memanfaatkannya dengan baik; bersumpah dengan waktu sore, sebagaimana dengan waktu duha, sebagai salah satu bukti kuasa Allah; dan bersumpah dengan salat Asar karena keutamaanya atas salat-salat yang lain."
+      },
+      {
+        "id": 6178,
+        "surat_id": 103,
+        "jus": 30,
+        "ruku": 545,
+        "no_ayat_inquran": 6178,
+        "no_ayat_insurat": 2,
+        "body_ayat_arb": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+        "body_ayat_ltn_en": "Innal insaana lafee khusr",
+        "body_ayat_ltn_in": "inna al-insaana lafii khusrin",
+        "body_ayat_ltn_in_html": "inna <strong>a</strong>l-ins<u>aa</u>na lafii khusr<strong>in</strong>",
+        "invers_tajweed": "إِ[g[نّ]َ [h:7137[ٱ]لْإِ[f:5969[نس]َ[n[ـٰ]نَ لَفِى خُسْرٍ",
+        "translation_id": "sungguh, manusia berada dalam kerugian,",
+        "translation_en": "Indeed, mankind is in loss,",
+        "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6178",
+        "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6178.mp3",
+        "tafsir_short": "Sungguh, manusia berada dalam kerugian, baik di dunia maupun akhirat, akibat hawa nafsu yang menyelubungi dirinya."
+      },
+      {
+        "id": 6179,
+        "surat_id": 103,
+        "jus": 30,
+        "ruku": 545,
+        "no_ayat_inquran": 6179,
+        "no_ayat_insurat": 3,
+        "body_ayat_arb": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "body_ayat_ltn_en": "Il lal lazeena aamanu wa 'amilus saali haati wa tawa saw bil haqqi wa tawa saw bis sabr",
+        "body_ayat_ltn_in": "illaa alladziina aamanuu wa'amiluu alshshaalihaati watawaasaw bialhaqqi watawaasaw bialshshabri",
+        "body_ayat_ltn_in_html": "ill<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti wataw<u>aas</u>aw bi<strong>a</strong>l<u>h</u>aqqi wataw<u>aas</u>aw bi<strong>al</strong><u>shsh</u>abr<strong>i</strong>",
+        "invers_tajweed": "إِلَّا [h:778[ٱ]لَّذِينَ ءَامَنُو[s[اْ] وَعَمِلُو[s[اْ] [h:118[ٱ][l[ل]صَّ[n[ـٰ]لِحَ[n[ـٰ]تِ وَتَوَاصَوْ[s[اْ] بِ[h:370[ٱ]لْحَقِّ وَتَوَاصَوْ[s[اْ] بِ[h:223[ٱ][l[ل]صَّ[q:223[بْ]رِ",
+        "translation_id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran.",
+        "translation_en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+        "audio_praimary": "https://cdn.alquran.cloud/media/audio/ayah/ar.alafasy/6179",
+        "audio_secondary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6179.mp3",
+        "tafsir_short": "Semua manusia rugi, kecuali orang-orang yang beriman dengan sejati dan mengerjakan kebajikan sesuai ketentuan syariat dengan penuh keikhlasan, serta saling menasihati satu sama lain dengan baik dan bijaksana untuk memegang teguh kebenaran sebagaimana diajarkan oleh agama dan saling menasihati untuk kesabaran dalam melaksanakan kewajiban agama, menjauhi larangan, menghadapi musibah, dan menjalani kehidupan."
+      }
+    ]
+  }
+}
